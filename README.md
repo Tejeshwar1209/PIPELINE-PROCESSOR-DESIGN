@@ -32,5 +32,7 @@ This task deepened my understanding of pipelined processor design, instruction f
 
 ##OUTPUT
 
+![Image](https://github.com/user-attachments/assets/4ae94725-660b-4e87-9021-450bfed40dd9)
+
 
 
